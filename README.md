@@ -38,19 +38,6 @@ As I continue learning, I'll keep adding more exciting Computer Vision projects 
 
 ---
 
-## 🌱 Currently Learning
-
-* 👁️ OpenCV
-* 🤖 MediaPipe
-* 🖼️ Image Processing
-* 🎥 Video Processing
-* 😊 Face Motion Detection
-* ✋ Hand Tracking
-* 🧠 Computer Vision
-* 🤖 Machine Learning
-
----
-
 ## 🛠️ Technologies & Concepts Used
 
 * Python
@@ -67,16 +54,6 @@ As I continue learning, I'll keep adding more exciting Computer Vision projects 
 ## 🎯 My Goal
 
 My goal is to become skilled in Computer Vision by building practical OpenCV applications and experimenting with real-world ideas.
-
-Through this repository, I'm exploring:
-
-* 👁️ Computer Vision
-* 🤖 OpenCV
-* ✋ Hand Tracking
-* 😊 Face Detection
-* 🎥 Real-Time Video Processing
-* 🧠 AI & Machine Learning Integration
-
 Every project helps me learn something new and brings me one step closer to becoming a better developer.
 
 ---
